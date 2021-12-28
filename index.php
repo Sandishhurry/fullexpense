@@ -1,5 +1,5 @@
-Login
-<?php
+
+<?PHP
 // Initialize the session
 session_start();
  
